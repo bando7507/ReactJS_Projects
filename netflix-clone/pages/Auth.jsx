@@ -122,6 +122,7 @@ function Auth() {
               >
                 {variant === 'login' ? 'Create an account' : 'Login'}
               </span>
+              ss
             </p>
           </div>
         </div>
